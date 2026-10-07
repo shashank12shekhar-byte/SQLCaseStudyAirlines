@@ -7,3 +7,4 @@ This SQL project is compatible with (PostgreSQL/MySQL)
 
 Key Concepts: Joins, Aggregations, Window Functions, CTEs, CASE statements
 
+Power BI – Interactive dashboards, KPIs, slicers, and visual storytelling.
